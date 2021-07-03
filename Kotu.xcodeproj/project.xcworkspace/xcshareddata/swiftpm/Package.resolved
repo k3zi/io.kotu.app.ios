@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Kumo",
+        "repositoryURL": "https://github.com/DuetHealth/Kumo.git",
+        "state": {
+          "branch": "develop",
+          "revision": "527ad3087721ee4bf922d94853f4cdda2729f154",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
